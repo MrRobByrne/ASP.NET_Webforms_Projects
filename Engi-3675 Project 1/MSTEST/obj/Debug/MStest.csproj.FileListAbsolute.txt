@@ -1,0 +1,5 @@
+c:\users\robert\documents\visual studio 2013\Projects\Engi-3675 Project 1\MStest\bin\Debug\MStest.dll
+c:\users\robert\documents\visual studio 2013\Projects\Engi-3675 Project 1\MStest\bin\Debug\MStest.pdb
+c:\users\robert\documents\visual studio 2013\Projects\Engi-3675 Project 1\MStest\obj\Debug\MStest.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2013\Projects\Engi-3675 Project 1\MStest\obj\Debug\MStest.dll
+c:\users\robert\documents\visual studio 2013\Projects\Engi-3675 Project 1\MStest\obj\Debug\MStest.pdb
