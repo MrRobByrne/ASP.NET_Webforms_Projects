@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectIII", "ProjectIII\ProjectIII.csproj", "{3742D7FA-2D56-4B85-885C-E8092CB93287}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C9010FAF-121F-4B11-9D3F-ACD8BAC6F815}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{AB7339D9-D932-4CC3-BE06-B5172D20CD96}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mrrobbyrne.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ProjectIII\\ProjectIII.csproj
+		SccProjectName1 = ProjectIII
+		SccLocalPath1 = ProjectIII
+		SccProjectUniqueName2 = UnitTest\\UnitTest.csproj
+		SccProjectName2 = UnitTest
+		SccLocalPath2 = UnitTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3742D7FA-2D56-4B85-885C-E8092CB93287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3742D7FA-2D56-4B85-885C-E8092CB93287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3742D7FA-2D56-4B85-885C-E8092CB93287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3742D7FA-2D56-4B85-885C-E8092CB93287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7339D9-D932-4CC3-BE06-B5172D20CD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7339D9-D932-4CC3-BE06-B5172D20CD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7339D9-D932-4CC3-BE06-B5172D20CD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7339D9-D932-4CC3-BE06-B5172D20CD96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

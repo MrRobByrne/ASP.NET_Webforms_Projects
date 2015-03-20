@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProjectIII</name>
+    </assembly>
+    <members>
+        <member name="T:ProjectIII.Class1">
+            <summary> 
+            Gets or sets the name of the customer.
+            </summary> 
+            <returns>The count of the rows in the table</returns>
+        </member>
+        <member name="F:ProjectIII.Class1.count">
+            <summary>
+            <param name="count">Count the number of rows in the table.</param> 
+            </summary>
+        </member>
+        <member name="F:ProjectIII.Class1.count2">
+            <summary>
+            <param name="count1">Count the number of rows in the table.</param> 
+            </summary>
+        </member>
+        <member name="F:ProjectIII.Class1.count3">
+            <summary>
+            <param name="count2">Count the number of rows in the table.</param> 
+            </summary>
+        </member>
+        <member name="M:ProjectIII.Class1.Main">
+            <summary>
+            Main function has as return void. 
+            In this function we user Count, Count2 and Count 3 to return the number of rows. We also use  System.Diagnostics.Debug.WriteLine
+            to print the time elapsed with stopwatch. 
+            </summary>
+        </member>
+    </members>
+</doc>

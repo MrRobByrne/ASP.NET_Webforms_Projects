@@ -1,0 +1,17 @@
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\obj\Debug\ProjectIII.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\obj\Debug\ProjectIII.exe
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\obj\Debug\ProjectIII.pdb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\bin\Debug\ProjectIII.XML
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\ProjectIII.exe
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\ProjectIII.pdb
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\ProjectIII.XML
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\Npgsql.dll
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\StyleCop.CSharp.dll
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\StyleCop.dll
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\Npgsql.xml
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\de\Npgsql.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\es\Npgsql.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\fi\Npgsql.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\fr\Npgsql.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\ja\Npgsql.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2013\Projects\Engi3673Assn3\ProjectIII\ProjectIII\zh-CN\Npgsql.resources.dll
